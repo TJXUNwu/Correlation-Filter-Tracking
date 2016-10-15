@@ -1,2 +1,3 @@
 # Correlation-Filter-Tracking
 使用Correlation Filter的目标跟踪
+列表中列有从2010年至今使用correlation filter进行目标跟踪的主要相关论文题目，不完全待补充。
