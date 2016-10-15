@@ -1,0 +1,32 @@
+[1] D. S. Bolme, J. R. Beveridge, B. A. Draper, and Y. M. Lui.Visual object tracking using adaptive orrelation filters. In CVPR, pages 2544每2550, 2010. 
+
+[2] J. Henriques, R. Caseiro, P. Martins, and J. Batista. Exploiting the circulant structure of tracking-by-detection with kernels. In ECCV, 2012.
+
+[3] M. Danelljan, G. Hger, F. S. Khan, and M. Felsberg. Accurate scale estimation for robust visual tracking. In BMVC,2014.
+
+[4] K. Zhang, L. Zhang, Q. Liu, D. Zhang, and M.-H. Yang. Fast visual tracking via dense spatio-temporal context learning. In ECCV, volume 8693, pages 127每141, 2014.
+
+[5] M. Danelljan, F. S. Khan, M. Felsberg, and J. van de Weijer.Adaptive color attributes for real-time visual tracking. In CVPR, pages 1090每1097, 2014.
+
+[6] J. F. Henriques, R. Caseiro, P. M. 0004, and J. Batista. High speed tracking with kernelized correlation filters. IEEE Trans. Pattern Anal. Mach. Intell., 37(3):583每596, 2015. 
+
+[7] Z. Hong, Z. Chen, C. Wang, X. Mei, D. Prokhorov, and D. Tao. Multi-store tracker (muster): A cognitive psychology inspired approach to object tracking. In CVPR, pages 749每758, 2015.
+
+[8] Y. Li, J. Zhu, and S. C. H. Hoi. Reliable patch trackers: Robust visual tracking by exploiting reliable patches. In CVPR, pages 353每361, 2015. 
+
+[9] T. Liu, G. Wang, and Q. Yang. Real-time part-based visual tracking via adaptive correlation filters. In CVPR, pages 4902每4912, 2015.
+
+[10] C. Ma, X. Yang, C. Zhang, and M.-H. Yang. Long-term correlation tracking. In CVPR, pages 5388每5396, 2015. 
+
+[11] Ming Tang, Jiayi Feng. Multi-Kernel Correlation Filter for Visual Tracking. In ICCV2015
+
+[12] Martin Danelljan, Gustav H?ger, Fahad Shahbaz Khan, Michael Felsberg. Learning Spatially Regularized Correlation Filters for Visual Tracking In ICCV2015
+    
+[13] Si Liu, Tianzhu Zhang, Xiaochun Cao, Changsheng Xu. Structural Correlation Filter for Robust Visual Tracking. In CVPR2016
+
+[14] Yao Sui, Ziming Zhang,Guanghui Wang,Yafei Tang, Li Zhang.Real-Time Visual Tracking: Promoting the Robustness of Correlation Filter Learning.In ECCV 2016.
+[15] L BertinettoㄛJ ValmadreㄛS GolodetzㄛO MiksikㄛP Torr .Staple: Complementary Learners for Real-Time Tracking. In CVPR2016
+
+[16] Adel Bibi, Matthias Mueller, Bernard Ghanem. Target Response Adaptation for Correlation Filter Tracking. ECCV2016
+
+[17] Martin Danelljan, Andreas Robinson, Fahad Khan, Michael Felsberg. Beyond Correlation Filters: Learning Continuous Convolution Operators for Visual Tracking. ECCV2016
