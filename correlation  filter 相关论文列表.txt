@@ -24,7 +24,7 @@
     
 [13] AS Montero.Scalable Kernel Correlation Filter with Sparse Feature Integration. In ICCV2015 workshop
 
-[14] Andrés Solís Montero, Jochen Lang, Robert Laganière.Scalable Kernel Correlation Filter with Sparse Feature Integration.  In ICCV2015 workshop
+[14] Zhang Md, Xing Jl.Joint Scale-Spatial Correlation Tracking with Adaptive Rotation Estimation.  In ICCV2015 workshop
 
 [15] Adel Bibi, Bernard Ghanem. Multi-Template Scale-Adaptive Kernelized Correlation Filters. In ICCV2015 workshop 
 
